@@ -32,4 +32,4 @@ Canal 1: Apps, I. (2021). Image Classification App | Teachable Machine + TensorF
 Canal 2: Ingenia, A. e. (2023). DETECCIÓN Y CLASIFICACIÓN DE RESIDUOS CON IA y VISIÓN ARTIFICIAL | Python OpenCV Object Detect [YouTube Video]. Retrieved from https://www.youtube.com/watch?v=PSFw_ipK3ug
 Canal 3: Tech, R. (2021). Crea un clasificador de perros y gatos con IA, Python y Tensorflow - Proyecto completo [YouTube Video]. Retrieved from https://www.youtube.com/watch?v=DbwKbsCWPSg&t=1554s
 
-‌
+‌Gracias por ver! 
